@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>front/fonts/VCR OSD Mono/VCR OSD Mono Cyr.ttf</file>
+        <file>front/fonts/VCR OSD Mono/VCR_OSD_MONO_1.001.ttf</file>
+    </qresource>
+</RCC>
